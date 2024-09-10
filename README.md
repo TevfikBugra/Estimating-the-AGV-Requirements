@@ -1,5 +1,5 @@
 # Estimating-the-AGV-Requirements
-The estimation of the automated guided vehicle requirements for a hypothetical flexible manufacturing system
+The estimation of the automated guided vehicle requirements for a hypothetical flexible manufacturing system.
 
 ## Abstract
  It is inevitable to state that developing economic and time-wise efficient ways of
